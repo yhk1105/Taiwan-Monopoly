@@ -2,7 +2,7 @@
 ## Video Demo: https://youtu.be/1OMiORdSuYQ
 ## Description: 
 
-This version of Monopoly is designed with simplicity in mind and is primarily based on Pygame. It features popular tourist attractions in Taiwan and offers a fun and engaging experience for players.
+This is a final project for CS50x: CS50's Introduction to Computer Science by Harvard University. This Monopoly is designed with simplicity in mind and is primarily based on Pygame. It features popular tourist attractions in Taiwan and offers a fun and engaging experience for players.
 
 ## Game Setup
 
